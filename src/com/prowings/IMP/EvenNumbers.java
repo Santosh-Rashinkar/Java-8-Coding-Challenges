@@ -16,7 +16,6 @@ public class EvenNumbers {
 		
 		System.out.println(" Even Number List is :- " + evenNumbers);
 	}
-
 	public static List<Integer> findEvenNumbers(List<Integer> numbers) {
 
 		return numbers.stream()
